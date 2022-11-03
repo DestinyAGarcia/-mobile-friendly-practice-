@@ -3,19 +3,21 @@
 }
 
 body {
-    background-color:violet;
+    background-color: blueviolet;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 15px;
-    padding: 14px;
-    margin: 16px;
 }
 
 header {
-    background-color: red;
-    text-align: center;
+    background-image: url("../img/wave\ \(1\).svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    border: 5px solid purple;
+    height: 500px;
 }
 
 h1,h2,h3 {
-    font-size: 15px;
+    font-size: 25px;
     text-align: center;
 }
